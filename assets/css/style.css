@@ -190,7 +190,7 @@
 }
 .portifolio .container .card{
     padding: 10px 1%;
-    margin: 2% 1%;
+    margin: 4% 6% 0 6%;
     background-color: rgba(0, 0, 0, 0.493);
     border-radius: 10px;
     box-sizing: border-box;
@@ -201,7 +201,7 @@
 }
 .portifolio .container .card h1{
     color: rgb(255, 255, 255);
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 300;
 }
 .portifolio .container .card p{
