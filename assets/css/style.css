@@ -169,23 +169,43 @@
 
 .portifolio{
     position: relative;
+    padding: 7% 1% 0 0;
     background: linear-gradient(-90deg, rgb(7, 65, 224), rgb(4, 22, 94));
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
     width: 100%;
     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .portifolio .container{
+    position: relative;
     padding: 0 1%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 .portifolio .container .card{
-    padding: 10px 3%;
-    margin: 0 1%;
+    padding: 10px 1%;
+    margin: 2% 1%;
     background-color: rgba(0, 0, 0, 0.493);
     border-radius: 10px;
     box-sizing: border-box;
+}
+.portifolio .container .card img{
+    width: 500px;
+    height: 281px;
+}
+.portifolio .container .card h1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 300;
+}
+.portifolio .container .card p{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
 }
