@@ -175,7 +175,7 @@
     background-size: 100%;
     background-attachment: fixed;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -207,7 +207,6 @@
 }
 .portifolio .container .card{
     padding: 10px 1%;
-    margin: 4% 6% 0 6%;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     box-sizing: border-box;
@@ -226,4 +225,45 @@
     color: rgb(255, 255, 255);
     font-size: 16px;
     font-weight: 400;
+}
+
+/* ################################################################################## */
+
+.contato{
+    position: relative;
+    padding: 50% 1% 0 0;
+    background: linear-gradient(-90deg, rgb(7, 65, 224), rgb(4, 22, 94));
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contato .cont-img{
+    width: 500px;
+    height: 548px;
+}
+.contato .cont-img img{
+    width: 100%;
+}
+.contato .container-contato{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contato .container-contato .cont-contat{
+    margin: 0 10% 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contato .container-contato .cont-contat input{
+    margin: 2% 0;
+    width: 400px;
 }
