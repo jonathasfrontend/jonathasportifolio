@@ -164,3 +164,20 @@
     font-weight: 400;
     color: #ffffff;
 }
+
+/* ############################################################################ */
+
+.portifolio{
+    position: relative;
+    background: linear-gradient(-90deg, rgb(7, 65, 224), rgb(4, 22, 94));
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100vh;
+}
+.portifolio .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
