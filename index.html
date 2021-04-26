@@ -58,6 +58,7 @@
     </main>
 
     <main class="portifolio" id="port">
+        <h1>Portifolio</h1>
         <div class="wrapper">
             <div class="carousel owl-carousel">
                 <div class="itens-card"><img src="assets/img/avegers.png" alt=""></div>
@@ -66,6 +67,11 @@
                 <div class="itens-card"><img src="assets/img/estudio.png" alt=""></div>
                 <div class="itens-card"><img src="assets/img/music.png" alt=""></div>
                 <div class="itens-card"><img src="assets/img/pitura.png" alt=""></div>
+                <div class="itens-card"><img src="assets/img/apple.png" alt=""></div>
+                <div class="itens-card"><img src="assets/img/neflix-login.png" alt=""></div>
+                <div class="itens-card"><img src="assets/img//netlfix.png" alt=""></div>
+                <div class="itens-card"><img src="assets/img/tegflix.png" alt=""></div>
+                <div class="itens-card"><img src="assets/img/CA.png" alt=""></div>
       </div>
       </div>
     </main>
@@ -75,13 +81,24 @@
     </section> -->
 
     <main class="contato" id="contato">
-        <section class="container-contato">
 
-            <div class="cont-contat">
-                <input type="text">
-                <input type="text">
-                <input type="text">
-            </div>
+        <section class="container-contato">
+            
+                <form action="https://formspree.io/f/mnqljawz" method="POST" class="cont-contat">
+
+                <input type="text" placeholder="Nome" name="nome" required>
+
+                <input type="email" placeholder="Email" name="email" required>
+
+                <input type="text" placeholder="Comentario" name="message" required>
+
+                <button type="submit">Enviar</button>
+                
+                <button type="reset">Limpar</button>
+
+                <changeit cols="30" rows="10" placeholder="Message.." required></changeit>
+
+            </form>
 
             <div class="cont-img">
                 <img src="assets/img/character2.png" alt="">

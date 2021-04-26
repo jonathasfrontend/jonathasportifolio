@@ -181,6 +181,12 @@
     justify-content: center;
     flex-direction: column;
 }
+.portifolio h1{
+    font-size: 40px;
+    font-weight: 500;
+    color: #ffffff;
+
+}
 .portifolio::before{
     content: '';
     position: absolute;
@@ -203,8 +209,7 @@
 
 .contato{
     position: relative;
-    padding: 50% 1% 0 0;
-    background: linear-gradient(-90deg, rgb(7, 65, 224), rgb(4, 22, 94));
+    background-color: linear-gradient(-90deg, rgb(7, 65, 224), rgb(4, 22, 94));
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
@@ -217,6 +222,9 @@
 .contato .cont-img{
     width: 500px;
     height: 548px;
+    position: absolute;
+    right: 10%;
+    bottom: 0;
 }
 .contato .cont-img img{
     width: 100%;
@@ -234,8 +242,30 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-left: -30%;
 }
 .contato .container-contato .cont-contat input{
     margin: 2% 0;
+    outline: none;
     width: 400px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 30px;
+    border-style: none;
+}
+.contato .container-contato .cont-contat button{
+    width: 150px;
+    height: 50px;
+    margin: 10px 0 0 0;
+    background-color: rgb(4, 22, 94);
+    border-radius: 30px;
+    border-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: 0.3s;
+}
+.contato .container-contato .cont-contat button:hover{
+    background-color: rgb(22, 51, 168);
 }
