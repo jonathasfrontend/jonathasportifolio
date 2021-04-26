@@ -198,7 +198,7 @@
     clip-path: circle(30% at 0% 50%);
     z-index: 1;
 }
-.portifolio .container{
+/* .portifolio .container{
     position: relative;
     padding: 0 1%;
     display: flex;
@@ -215,17 +215,7 @@
 .portifolio .container .card img{
     width: 500px;
     height: 281px;
-}
-.portifolio .container .card h1{
-    color: rgb(255, 255, 255);
-    font-size: 25px;
-    font-weight: 300;
-}
-.portifolio .container .card p{
-    color: rgb(255, 255, 255);
-    font-size: 16px;
-    font-weight: 400;
-}
+} */
 
 /* ################################################################################## */
 
