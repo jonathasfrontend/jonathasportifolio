@@ -242,8 +242,8 @@
     height: 100px;
     background-color: rgb(6, 12, 87);
     transform: rotate(46deg);
-    margin-top: -10%;
-    margin-left: 4%;
+    margin-top: -60%;
+    margin-left: 20%;
     color: #fff;
     text-align: center;
     display: flex;
@@ -275,6 +275,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    z-index: -10;
 }
 .contato h1{
     padding: 5% 0 0 0;
