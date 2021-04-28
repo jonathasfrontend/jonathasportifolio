@@ -43,3 +43,14 @@ AOS.init({
           }
         }
       });
+
+      // script da barra de rolagen scroll top
+
+      $(window).scroll(function(){
+        // sticky top script do scroll
+        if(this.scrollY > 100){
+            $('.top').addClass("sticky");
+        }else{
+            $('.top').removeClass("sticky");
+        }
+    });

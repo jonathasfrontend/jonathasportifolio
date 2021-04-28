@@ -9,12 +9,18 @@
     align-items: center;
     justify-content: space-between;
     z-index: 100000;
+    transition: 0.5s;
 }
-.top .log h1{
-    font-size: 28px;
-    color: #fff;
-    font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+.top.sticky{
+    padding: 2px 3%;
+}
+.top .log{
+    width: 40px;
+    height: 40px;
+    /* border-radius: 50%; */
+}
+.top .log img{
+    width: 100%;
 }
 .top .itens-center .nav-itens .conten-itens{
     display: flex;
@@ -33,30 +39,6 @@
 }
 .top .itens-center .nav-itens .conten-itens .itens a:hover{
     color: rgb(221, 221, 221);
-}
-.top .itens-login .cad{
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: 400;
-    color: rgb(221, 221, 221);
-    margin-right: 20px;
-    transition: 0.2s;
-}
-.top .itens-login .cad:hover{
-    color: rgb(255, 255, 255);
-}
-.top .itens-login .log{
-    padding: 10px 20px;
-    background-color: rgb(61, 52, 189);
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    font-size: 15px;
-    font-weight: 400;
-    border-radius: 50px;
-    transition: 0.2s;
-}
-.top .itens-login .log:hover{
-    background-color: rgb(45, 34, 192);
 }
 
 /* ############################################################################################# */
@@ -169,7 +151,6 @@
 
 .portifolio{
     position: relative;
-    padding: 20% 1% 0 0;
     background: linear-gradient(-90deg, rgb(7, 65, 224), rgb(4, 22, 94));
     background-repeat: no-repeat;
     background-size: 100%;
@@ -219,6 +200,12 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-top: 5%;
+}
+.servicos h1{
+    font-size: 40px;
+    font-weight: 500;
+    color: #ffffff;
 }
 .servicos .servi-cont{
     display: flex;
@@ -227,12 +214,27 @@
     max-width: 800px;
 }
 .servicos .servi-cont .title-serv{
-    padding: 10px 20px;
-    margin: 0 15px 0 0;
+    padding: 5px 20px;
+    width: 300px;
+    height: 400px;
+    margin: 0 5px 0 0;
     border-radius: 2%;
-    border: 1px solid rgb(0, 0, 0);
-    background-color: rgb(0, 228, 49);
+    background: linear-gradient(0deg, rgb(48, 115, 238), rgb(11, 185, 40));
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.699);
+}
+.servicos .servi-cont .title-serv .opt{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+.servicos .servi-cont .title-serv .opt .pontos::before{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #000000;
+    margin: 7px 0 0 -15px;
 }
 .servicos .servi-cont .title-serv .block{
     position: absolute;
@@ -247,11 +249,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 5%;
+    box-shadow: 5px 5px 20px rgb(6, 12, 87);
 }
 .servicos .servi-cont .title-serv .block p{
     transform: rotate(-46deg);
-    margin-top: -5px;
-    margin-left: -5px;
+    margin-top: -4px;
+    margin-left: -4px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
 }
 
 /* ################################################################################## */
@@ -270,7 +277,7 @@
     justify-content: center;
 }
 .contato h1{
-    padding: 20px;
+    padding: 5% 0 0 0;
     font-size: 40px;
     font-weight: 500;
     color: #ffffff;
@@ -330,12 +337,12 @@
 
 .roda-pe{
     width: 100%;
-    padding: 5px 5%;
+    padding: 1px 2%;
     background-color: black;
     color: rgb(199, 199, 199);
     z-index: 100;
 }
 .roda-pe p{
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 200;
 }
