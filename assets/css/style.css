@@ -330,6 +330,21 @@
     cursor: pointer;
     transition: 0.3s;
 }
+.contato .container-contato .cont-contat .icons-red{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5% 0 0 0;
+}
+.contato .container-contato .cont-contat .icons-red a{
+    width: 40px;
+    height: 40px;
+    margin: 0 40px 0 40px;
+}
+.contato .container-contato .cont-contat .icons-red img{
+    width: 40px;
+    height: 40px;
+}
 .contato .container-contato .cont-contat button:hover{
     background-color: rgb(22, 51, 168);
 }
@@ -342,6 +357,9 @@
     background-color: black;
     color: rgb(199, 199, 199);
     z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .roda-pe p{
     font-size: 12px;
