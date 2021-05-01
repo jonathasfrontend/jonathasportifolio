@@ -67,7 +67,7 @@ gtag('config', 'G-EN3WEQ287C');
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   
-  ga('create', 'UA-XXXXX-Y', 'auto');
+  ga('create', 'G-EN3WEQ287C', 'auto');
   ga('send', 'pageview');
 
   
