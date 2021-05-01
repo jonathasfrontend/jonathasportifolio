@@ -340,10 +340,20 @@
     width: 40px;
     height: 40px;
     margin: 0 40px 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .contato .container-contato .cont-contat .icons-red img{
-    width: 40px;
-    height: 40px;
+    width: 100%;
+}
+.contato .container-contato .cont-contat .icons-red .gmail-link{
+    width: 50px;
+    height: 30px;
+    margin: 0 40px 0 40px;
+}
+.contato .container-contato .cont-contat .icons-red .gmail-link .gmail{
+    width: 100%;
 }
 .contato .container-contato .cont-contat button:hover{
     background-color: rgb(22, 51, 168);
