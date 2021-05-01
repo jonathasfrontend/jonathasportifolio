@@ -54,3 +54,5 @@ AOS.init({
             $('.top').removeClass("sticky");
         }
     });
+
+    alert("Site em constante desemvolvimento!");
