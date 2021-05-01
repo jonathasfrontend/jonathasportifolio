@@ -7,57 +7,57 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="desenhando-1.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   inkscape:export-ydpi="24"
-   inkscape:export-xdpi="24"
-   inkscape:export-filename="D:\Portifolios\Portifolios\Jonathas Portofolio\assets\img\logo.png"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 500 500"
+   width="500mm"
    height="500mm"
-   width="500mm">
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="D:\Portifolios\Portifolios\Jonathas Portofolio\assets\img\logo.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="desenhando-1.svg">
   <defs
      id="defs2">
     <clipPath
-       id="clipPath883"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath883">
       <path
-         sodipodi:nodetypes="cccccccc"
-         id="path885"
+         style="fill:none;stroke:#06f404;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 700.41794,17.518411 0.31848,350.368229 C 696.52814,449.4621 637.92428,498.50627 540.2041,487.96739 l 1.27408,33.12573 375.63893,4.1321 67.56755,-424.32432 -1.80179,-124.324323 z"
-         style="fill:none;stroke:#06f404;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path885"
+         sodipodi:nodetypes="cccccccc" />
     </clipPath>
     <clipPath
-       id="clipPath921"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath921">
       <path
-         sodipodi:nodetypes="cccccc"
-         id="path923"
+         style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 78.378378,79.054055 104.504502,-0.45045 0.0898,250.902045 c 1.54405,75.02163 -29.98201,88.59965 -73.28797,87.61146 L 37.584954,215.3172 Z"
-         style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path923"
+         sodipodi:nodetypes="cccccc" />
     </clipPath>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="745"
-     inkscape:window-width="1366"
-     inkscape:snap-global="false"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="944.88189"
-     inkscape:cx="944.88189"
-     inkscape:zoom="0.2936875"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28239183"
+     inkscape:cx="944.88189"
+     inkscape:cy="944.88189"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -66,90 +66,90 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       id="text835"
-       y="462.29477"
+       xml:space="preserve"
+       style="font-size:597.276px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke-width:0.33182"
        x="26.094986"
+       y="462.29477"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="26.094986"
+         y="462.29477"
+         style="font-size:597.276px;fill:#0000ff;fill-opacity:1;stroke-width:0.33182">J</tspan></text>
+    <text
+       id="text839"
+       y="477.39133"
+       x="539.69629"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:0.389237"
+       xml:space="preserve"
+       clip-path="url(#clipPath883)"
+       transform="matrix(0.93327076,0,0,0.93327076,-396.24124,12.809788)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:0.389237"
+         y="477.39133"
+         x="539.69629"
+         id="tspan837"
+         sodipodi:role="line">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:653.876px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:6.539;stroke-miterlimit:4;stroke-dasharray:none"
+       x="100.56221"
+       y="458.34528"
+       id="text913"
+       clip-path="url(#clipPath921)"
+       transform="translate(-8.4666671,0.52916667)"><tspan
+         sodipodi:role="line"
+         id="tspan911"
+         x="100.56221"
+         y="458.34528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:6.539;stroke-miterlimit:4;stroke-dasharray:none">O</tspan></text>
+    <g
+       id="g909"
+       transform="matrix(0.81934423,0,0,0.81934423,453.5251,-8.1458471)"
+       style="stroke-width:2.44098;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         xml:space="preserve"
+         style="font-size:648.595px;line-height:1.25;font-family:sans-serif;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.44098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="8.5715399"
+         y="481.58838"
+         id="text899"><tspan
+           sodipodi:role="line"
+           id="tspan897"
+           x="8.5715399"
+           y="481.58838"
+           style="font-size:648.595px;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.44098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">J</tspan></text>
+      <text
+         id="text903"
+         y="477.39133"
+         x="539.69629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.40856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"
+         clip-path="url(#clipPath883)"
+         transform="matrix(1.0134592,0,0,1.0134592,-457.93653,-8.1102711)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.40856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="477.39133"
+           x="539.69629"
+           id="tspan901"
+           sodipodi:role="line">O</tspan></text>
+    </g>
+    <text
+       id="text917"
+       y="264.99747"
+       x="-268.4996"
        style="font-size:597.276px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke-width:0.33182"
        xml:space="preserve"><tspan
          style="font-size:597.276px;fill:#0000ff;fill-opacity:1;stroke-width:0.33182"
-         y="462.29477"
-         x="26.094986"
-         id="tspan833"
-         sodipodi:role="line">J</tspan></text>
-    <text
-       transform="matrix(0.93327076,0,0,0.93327076,-403.12045,12.809788)"
-       clip-path="url(#clipPath883)"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:0.389237"
-       x="539.69629"
-       y="477.39133"
-       id="text839"><tspan
-         sodipodi:role="line"
-         id="tspan837"
-         x="539.69629"
-         y="477.39133"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:0.389237">O</tspan></text>
-    <text
-       transform="translate(-1.5875,0.52916667)"
-       clip-path="url(#clipPath921)"
-       id="text913"
-       y="458.34528"
-       x="100.56221"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:653.876px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:6.539;stroke-miterlimit:4;stroke-dasharray:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0000ff;fill-opacity:1;stroke-width:6.539;stroke-miterlimit:4;stroke-dasharray:none"
-         y="458.34528"
-         x="100.56221"
-         id="tspan911"
-         sodipodi:role="line">O</tspan></text>
-    <g
-       style="stroke-width:2.44098;stroke-miterlimit:4;stroke-dasharray:none"
-       transform="matrix(0.81934423,0,0,0.81934423,453.5251,-8.1458471)"
-       id="g909">
-      <text
-         id="text899"
-         y="481.58838"
-         x="8.5715399"
-         style="font-size:648.595px;line-height:1.25;font-family:sans-serif;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.44098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:648.595px;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.44098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           y="481.58838"
-           x="8.5715399"
-           id="tspan897"
-           sodipodi:role="line">J</tspan></text>
-      <text
-         transform="matrix(1.0134592,0,0,1.0134592,-457.93653,-8.1102711)"
-         clip-path="url(#clipPath883)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.40856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="539.69629"
-         y="477.39133"
-         id="text903"><tspan
-           sodipodi:role="line"
-           id="tspan901"
-           x="539.69629"
-           y="477.39133"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:700.628px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:none;fill-opacity:1;stroke:#d83d3d;stroke-width:2.40856;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">O</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:597.276px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke-width:0.33182"
-       x="-268.4996"
-       y="264.99747"
-       id="text917"><tspan
-         sodipodi:role="line"
-         id="tspan915"
-         x="-268.4996"
          y="264.99747"
-         style="font-size:597.276px;fill:#0000ff;fill-opacity:1;stroke-width:0.33182">J</tspan></text>
+         x="-268.4996"
+         id="tspan915"
+         sodipodi:role="line">J</tspan></text>
   </g>
 </svg>
