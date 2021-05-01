@@ -70,4 +70,6 @@ gtag('config', 'G-EN3WEQ287C');
   ga('create', 'G-EN3WEQ287C', 'auto');
   ga('send', 'pageview');
 
-  
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'G-EN3WEQ287C', 'auto');
+ga('send', 'pageview');
