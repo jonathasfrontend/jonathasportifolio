@@ -99,7 +99,7 @@
     background-size: 100%;
     background-attachment: fixed;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -131,11 +131,11 @@
 .sobre .text{
     max-width: 600px;
     padding: 20px 5%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(146, 146, 146, 0.5);
     border-radius: 5px;
     box-shadow: 0 0 5px rgb(0, 0, 0);
     backdrop-filter: blur(90px);
-    margin: 60px 0 0 20px;
+    /* margin: 60px 0 0 20px; */
 }
 .sobre .text h1{
     color: rgb(255, 255, 255);
@@ -283,14 +283,22 @@
     font-weight: 500;
     color: #ffffff;
 }
-.contato .cont-img{
+.contato .container-contato .contet{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.contato .container-contato .contet .cont-img{
     width: 500px;
     height: 548px;
     position: absolute;
     right: 10%;
     bottom: 0;
 }
-.contato .cont-img img{
+.contato .container-contato .contet .cont-img img{
     width: 100%;
 }
 .contato .container-contato{
@@ -300,7 +308,7 @@
     align-items: center;
     justify-content: center;
 }
-.contato .container-contato .cont-contat{
+.contato .container-contato .contet .cont-contat{
     margin: 0 10% 0 0;
     display: flex;
     flex-direction: column;
@@ -308,7 +316,7 @@
     justify-content: center;
     margin-left: -30%;
 }
-.contato .container-contato .cont-contat input{
+.contato .container-contato .contet .cont-contat input{
     margin: 2% 0;
     outline: none;
     width: 400px;
@@ -317,7 +325,7 @@
     border-radius: 30px;
     border-style: none;
 }
-.contato .container-contato .cont-contat button{
+.contato .container-contato .contet .cont-contat button{
     width: 150px;
     height: 50px;
     margin: 10px 0 0 0;
@@ -330,13 +338,13 @@
     cursor: pointer;
     transition: 0.3s;
 }
-.contato .container-contato .cont-contat .icons-red{
+.contato .container-contato .contet .cont-contat .icons-red{
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5% 0 0 0;
 }
-.contato .container-contato .cont-contat .icons-red a{
+.contato .container-contato .contet .cont-contat .icons-red a{
     width: 40px;
     height: 40px;
     margin: 0 40px 0 40px;
@@ -344,18 +352,18 @@
     align-items: center;
     justify-content: center;
 }
-.contato .container-contato .cont-contat .icons-red img{
+.contato .container-contato .contet .cont-contat .icons-red img{
     width: 100%;
 }
-.contato .container-contato .cont-contat .icons-red .gmail-link{
+.contato .container-contato .contet .cont-contat .icons-red .gmail-link{
     width: 50px;
     height: 40px;
     margin: 0 40px 0 40px;
 }
-.contato .container-contato .cont-contat .icons-red .gmail-link .gmail{
+.contato .container-contato .contet .cont-contat .icons-red .gmail-link .gmail{
     width: 100%;
 }
-.contato .container-contato .cont-contat button:hover{
+.contato .container-contato .contet .cont-contat button:hover{
     background-color: rgb(22, 51, 168);
 }
 
