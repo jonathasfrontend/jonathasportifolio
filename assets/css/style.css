@@ -88,6 +88,7 @@
     font-weight: 800;
     font-family: 'Lato', sans-serif;
     color: rgb(255, 255, 255);
+    max-width: 200px;
 }
 
 /* ################################################################### */
@@ -223,7 +224,7 @@
     box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.699);
 }
 .servicos .servi-cont .title-serv .opt{
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     color: #000000;
 }
@@ -242,8 +243,8 @@
     height: 100px;
     background-color: rgb(6, 12, 87);
     transform: rotate(46deg);
-    margin-top: -60%;
-    margin-left: 20%;
+    margin-top: -10%;
+    margin-left: 4%;
     color: #fff;
     text-align: center;
     display: flex;
@@ -342,7 +343,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 5% 0 0 0;
+    margin-top: 5%;
 }
 .contato .container-contato .contet .cont-contat .icons-red a{
     width: 40px;
@@ -370,6 +371,7 @@
 /* ############################################################################################### */
 
 .roda-pe{
+    position: relative;
     width: 100%;
     padding: 1px 2%;
     background-color: black;
@@ -378,6 +380,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    bottom: 0;
 }
 .roda-pe p{
     font-size: 12px;

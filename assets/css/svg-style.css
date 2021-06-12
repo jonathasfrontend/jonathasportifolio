@@ -1,5 +1,5 @@
-.servicos .custom-shape-divider-bottom-1619644727 {
-    position: absolute;
+.custom-shape-divider-bottom-1619644727 {
+    position: relative;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -9,19 +9,19 @@
     z-index: 2000;
 }
 
-.servicos .custom-shape-divider-bottom-1619644727 svg {
+.custom-shape-divider-bottom-1619644727 svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
     height: 120px;
 }
 
-.servicos .custom-shape-divider-bottom-1619644727 .shape-fill {
+.custom-shape-divider-bottom-1619644727 .shape-fill {
     fill: #FFFFFF;
 }
 
-.contato .custom-shape-divider-top-1619644964 {
-    position: absolute;
+.custom-shape-divider-top-1619644964 {
+    position: relative;
     top: 0;
     left: 0;
     width: 100%;
@@ -30,13 +30,13 @@
     z-index: 2000;
 }
 
-.contato .custom-shape-divider-top-1619644964 svg {
+.custom-shape-divider-top-1619644964 svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
     height: 120px;
 }
 
-.contato .custom-shape-divider-top-1619644964 .shape-fill {
+.custom-shape-divider-top-1619644964 .shape-fill {
     fill: #FFFFFF;
 }
